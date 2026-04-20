@@ -1,5 +1,5 @@
 # Rajlaxmi Wooden Furnitures
- Rajlaxmi Wooden Furnitures — showcases product catalog, services, and a contact system for enquiries. Built with performance and accessibility in mind.
+ Rajlaxmi Wooden Furnitures — showcases a curated product catalog of handcrafted wooden furniture, bespoke services, and a contact system for enquiries. Each piece highlights traditional joinery, premium sustainably-sourced timbers, and customizable finishes to suit home and commercial interiors. The site includes product specifications, high-resolution imagery, delivery and installation options, and warranty details. Built with performance and accessibility in mind to provide a smooth shopping and discovery experience.
 
 ![Site preview](./public/Images/im1.png)
 
