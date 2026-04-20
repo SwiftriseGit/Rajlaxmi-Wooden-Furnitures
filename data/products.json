@@ -1,0 +1,38 @@
+[
+  {
+    "id": "p-001",
+    "title": "Classic Teak Dining Table",
+    "slug": "classic-teak-dining-table",
+    "description": "Handcrafted solid teak dining table seating up to 8. Durable finish with natural grain patterns.",
+    "price": 12999,
+    "currency": "INR",
+    "dimensions": "L200 x W100 x H75 cm",
+    "images": ["/public/Images/product-1.svg"],
+    "category": "Dining",
+    "stock": 5
+  },
+  {
+    "id": "p-002",
+    "title": "Oak Bed Frame (Queen)",
+    "slug": "oak-bed-frame-queen",
+    "description": "Minimalist oak bed frame with reinforced slats and a low-profile headboard.",
+    "price": 18999,
+    "currency": "INR",
+    "dimensions": "L210 x W160 x H110 cm",
+    "images": ["/public/Images/product-2.svg"],
+    "category": "Bedroom",
+    "stock": 3
+  },
+  {
+    "id": "p-003",
+    "title": "Handwoven Armchair",
+    "slug": "handwoven-armchair",
+    "description": "Comfortable armchair with handwoven cane seat and solid wooden frame.",
+    "price": 6499,
+    "currency": "INR",
+    "dimensions": "L85 x W80 x H95 cm",
+    "images": ["/public/Images/product-3.svg"],
+    "category": "Living Room",
+    "stock": 12
+  }
+]
