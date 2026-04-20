@@ -7,7 +7,7 @@
     "price": 12999,
     "currency": "INR",
     "dimensions": "L200 x W100 x H75 cm",
-    "images": ["/public/Images/product-1.svg"],
+    "images": ["/public/Images/im1.png"],
     "category": "Dining",
     "stock": 5
   },
@@ -19,7 +19,7 @@
     "price": 18999,
     "currency": "INR",
     "dimensions": "L210 x W160 x H110 cm",
-    "images": ["/public/Images/product-2.svg"],
+    "images": ["/public/Images/im2.png"],
     "category": "Bedroom",
     "stock": 3
   },
@@ -31,7 +31,7 @@
     "price": 6499,
     "currency": "INR",
     "dimensions": "L85 x W80 x H95 cm",
-    "images": ["/public/Images/product-3.svg"],
+    "images": ["/public/Images/im3.png"],
     "category": "Living Room",
     "stock": 12
   }
