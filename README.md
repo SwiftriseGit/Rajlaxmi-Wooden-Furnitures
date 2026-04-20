@@ -2,7 +2,7 @@
 
 Official Next.js storefront for Rajlaxmi Wooden Furnitures — showcases product catalog, services, and a contact system for enquiries. Built with performance and accessibility in mind.
 
-![Site preview](./public/Images/product-2.svg)
+![Site preview](./public/Images/im1.png)
 
 ## Highlights
 - Responsive, mobile-first UI with image optimization
